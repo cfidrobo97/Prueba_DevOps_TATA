@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+security:
+  api-key: 2f5ae96c-b558-4c7b-a590-a501ae1c3f6c 
+  jwt-secret: 4c90b075-e62b-42a0-b5a7-8eaf6e23934b
