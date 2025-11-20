@@ -1,0 +1,11 @@
+# Archivos que Terraform genera localmente y no deben versionarse
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+.terraform.tfstate.lock.info
+*.tfplan
+
+
+
